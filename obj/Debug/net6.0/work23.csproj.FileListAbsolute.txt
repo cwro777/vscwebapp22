@@ -1,0 +1,2 @@
+C:\work\work23\bin\Debug\net6.0\work23.exe
+C:\work\work23\bin\Debug\net6.0\work23.dll

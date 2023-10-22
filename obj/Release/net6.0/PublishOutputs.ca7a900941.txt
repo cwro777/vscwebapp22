@@ -1,0 +1,7 @@
+C:\work\work23\bin\Release\net6.0\publish\work23.exe
+C:\work\work23\bin\Release\net6.0\publish\appsettings.Development.json
+C:\work\work23\bin\Release\net6.0\publish\appsettings.json
+C:\work\work23\bin\Release\net6.0\publish\work23.dll
+C:\work\work23\bin\Release\net6.0\publish\work23.deps.json
+C:\work\work23\bin\Release\net6.0\publish\work23.runtimeconfig.json
+C:\work\work23\bin\Release\net6.0\publish\work23.pdb
